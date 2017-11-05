@@ -1,14 +1,14 @@
-1 klukkutími - 19 okt. 16:00 - 17:00 Hent rusl póst af vefsíðu og reynt að logga inn á en mig vantar FTP aðgang.
-1 klukkutími - 19 okt. 17:00 - 18:00 Hannað nýja vefsíðu //EXPREAMENTAL SÍÐA.
-1 klukkutími - 20 okt. 10:00 - 11:00 Hannað vöruflokka //EXPREAMENTAL SÍÐA.
-1 klukkutími - 20 okt. 12:00 - 13:00 Unnið í forsíðu //EXPREAMENTAL SÍÐA.
-1 klukkutími - 21 okt. 14:00 - 15:00 Basic Backround myndband. NOTE: Íslenskt fjall?  
-1 klukkutími - 21 okt. 18:00 - 19:00 Responsive Mobile design og fært gögn frá hafðu samband yfir í um okkur.
-1 klukkutími - 23 okt. 14:00 - 15:00 Lagað um okkur og ip tölu og header.
-2 klukkutímar - 24 okt. 19:00 - 21:00 Crackerdrykkir settir upp í síðu og vöruflokkum.
-1 klukkutími - 24 okt. 21:00 - 22:00 sett upp frétta blogg. 
-2 klukkutímar - 25 okt. 19:00 - 20:00 Endurgert eðalorð og smá lagfæringar.
-1 klukkutími - 26 okt. 17:30  - 18:30 Bætt við First Class brands.
-1 klukkutími - 29 okt. 19:00 - 20:00 css vinna.
-1 klukkutími - 3 nov. 19:30 - 20:30 Byrjað á estrella vöruflokk og formattað allar myndir.
-1 klukkutími - 5 nov. 12:50 - 13:50 Klárað estrella voruflokkinn í bili formattað fleirri myndir og gert almennileg icons fyrir vöruflokka 
+1 klukkutími   - 19 okt. 16:00 - 17:00 Hent rusl póst af vefsíðu og reynt að logga inn á en mig vantar FTP aðgang.
+1 klukkutími   - 19 okt. 17:00 - 18:00 Hannað nýja vefsíðu //EXPREAMENTAL SÍÐA.
+1 klukkutími   - 20 okt. 10:00 - 11:00 Hannað vöruflokka //EXPREAMENTAL SÍÐA.
+1 klukkutími   - 20 okt. 12:00 - 13:00 Unnið í forsíðu //EXPREAMENTAL SÍÐA.
+1 klukkutími   - 21 okt. 14:00 - 15:00 Basic Backround myndband. NOTE: Íslenskt fjall?  
+1 klukkutími   - 21 okt. 18:00 - 19:00 Responsive Mobile design og fært gögn frá hafðu samband yfir í um okkur.
+1 klukkutími   - 23 okt. 14:00 - 15:00 Lagað um okkur og ip tölu og header.
+2 klukkutímar  - 24 okt. 19:00 - 21:00 Crackerdrykkir settir upp í síðu og vöruflokkum.
+1 klukkutími   - 24 okt. 21:00 - 22:00 sett upp frétta blogg. 
+2 klukkutímar  - 25 okt. 19:00 - 20:00 Endurgert eðalorð og smá lagfæringar.
+1 klukkutími   - 26 okt. 17:30  - 18:30 Bætt við First Class brands.
+1 klukkutími   - 29 okt. 19:00 - 20:00 css vinna.
+1 klukkutími   - 3 nov. 19:30 - 20:30 Byrjað á estrella vöruflokk og formattað allar myndir.
+1 klukkutími   - 5 nov. 12:50 - 13:50 Klárað estrella voruflokkinn í bili og gert almennileg icons fyrir vöruflokka 
