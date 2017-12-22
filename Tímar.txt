@@ -11,6 +11,7 @@
 1 klukkutími   - 26 okt. 17:30  - 18:30 Bætt við First Class brands.
 1 klukkutími   - 29 okt. 19:00 - 20:00 css vinna.
 1 klukkutími   - 3 nov.  19:30 - 20:30 Byrjað á estrella vöruflokk og formattað allar myndir.
-1 klukkutími   - 5 nov.  12:50 - 13:50 Klárað estrella voruflokkinn í bili og gert almennileg icons fyrir vöruflokka 
-2 klukkutímar  - 25 nov. 14:00 - 16:00 formating/unnið í healthyco og mobile lagfæringar   
+1 klukkutími   - 5 nov.  12:50 - 13:50 Klárað estrella voruflokkinn í bili og gert almennileg icons fyrir vöruflokka. 
+2 klukkutímar  - 25 nov. 14:00 - 16:00 formating/unnið í healthyco og mobile lagfæringar.   
 2 klukkutímar  - 4 des. 20:00 - 22:00 Healthyco og conversion fyrir myndir.
+1 klukkutími   - 22 des. 14:00 - 15:00 Cool strips fyrir Estrella og bætt við síðustu vörunum í healthyco.
