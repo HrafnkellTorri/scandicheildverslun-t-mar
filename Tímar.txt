@@ -16,3 +16,4 @@
 2 klukkutímar  - 4  des. 20:00 - 22:00 Healthyco og conversion fyrir myndir.
 1 klukkutími   - 22 des. 14:00 - 15:00 Cool strips fyrir Estrella og bætt við síðustu vörunum í healthyco.
 2 klukkutími   - 15 jan. 18:00 - 19:00 Bætti við á healthyco og stilti myndir og smáskjástyllingar
+1 Klukkutími   - 19 jan. 13:00 - 14:00 Lagaði stafsettningavillur og lagaði "I" buggið
