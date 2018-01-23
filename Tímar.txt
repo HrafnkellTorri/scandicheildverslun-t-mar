@@ -9,7 +9,7 @@
 1 klukkutími   - 24 okt. 21:00 - 22:00 sett upp frétta blogg. 
 2 klukkutímar  - 25 okt. 19:00 - 20:00 Endurgert eðalorð og smá lagfæringar.
 1 klukkutími   - 26 okt. 17:30  - 18:30 Bætt við First Class brands.
-1 klukkutími   - 29 okt. 19:00 - 20:00 css vinna.
+1 klukkutími   - 29 okt. 19:00 - 20:00 "css" vinna.
 1 klukkutími   - 3  nov.  19:30 - 20:30 Byrjað á estrella vöruflokk og formattað allar myndir.
 1 klukkutími   - 5  nov.  12:50 - 13:50 Klárað estrella voruflokkinn í bili og gert almennileg icons fyrir vöruflokka. 
 2 klukkutímar  - 25 nov. 14:00 - 16:00 formating/unnið í healthyco og mobile lagfæringar.   
@@ -18,3 +18,6 @@
 2 klukkutími   - 15 jan. 18:00 - 19:00 Bætti við á healthyco og stilti myndir og smáskjástyllingar.
 1 Klukkutími   - 19 jan. 13:00 - 14:00 Lagaði stafsettningavillur og lagaði "I" buggið.
 1 klukkutímar  - 21 jan. 14:30 - 15:30 Lagað scale í mobile og bætt við fleirri vörum.
+1 klukkutímar  - 22 jan. 18:30 - 19:30 Bætt anchors og breytt myndum sem voru í of hárri upplausn
+1 klukkutímar  - 23 jan. 21:30 - 22:30 bætt við nutella og svo lagfært meiri villur. lagað línur og strip í healthyco.
+
