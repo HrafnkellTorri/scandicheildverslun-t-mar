@@ -1,5 +1,5 @@
 1 klukkutími   - 19 okt. 16:00 - 17:00 Hent rusl póst af vefsíðu og reynt að logga inn á en mig vantar FTP aðgang.
-1 klukkutími   - 19 okt. 17:00 - 18:00 Hannað nýja vefsíðu //EXPREAMENTAL SÍÐA.
+2 klukkutími   - 19 okt. 17:00 - 18:00 Hannað nýja vefsíðu //EXPREAMENTAL SÍÐA.
 1 klukkutími   - 20 okt. 10:00 - 11:00 Hannað vöruflokka //EXPREAMENTAL SÍÐA.
 1 klukkutími   - 20 okt. 12:00 - 13:00 Unnið í forsíðu //EXPREAMENTAL SÍÐA.
 1 klukkutími   - 21 okt. 14:00 - 15:00 Basic Backround myndband. NOTE: Íslenskt fjall?  
@@ -22,3 +22,4 @@
 1 klukkutími  - 23 jan. 21:30 - 22:30 bætt við nutella og svo lagfært meiri villur. lagað línur og strip í healthyco.
 2 klukkutímar - 2 feb. 15:00 - 16:00 bætt við vörum og groupað elementum saman.
 1 klukkutími - 4 feb. 20:00 - 21:00
+5 klukkutímar - 5 feb. set up dns og keypt hýsingu. yfirferð og klárað bloggið. Lagað allt fyrir mobile og optimizað fyrir mismunandi skjá stærðir
