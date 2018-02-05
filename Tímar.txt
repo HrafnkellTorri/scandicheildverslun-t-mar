@@ -17,7 +17,8 @@
 1 klukkutími   - 22 des. 14:00 - 15:00 Cool strips fyrir Estrella og bætt við síðustu vörunum í healthyco.
 2 klukkutími   - 15 jan. 18:00 - 19:00 Bætti við á healthyco og stilti myndir og smáskjástyllingar.
 1 Klukkutími   - 19 jan. 13:00 - 14:00 Lagaði stafsettningavillur og lagaði "I" buggið.
-1 klukkutímar  - 21 jan. 14:30 - 15:30 Lagað scale í mobile og bætt við fleirri vörum.
-1 klukkutímar  - 22 jan. 18:30 - 19:30 Bætt anchors og breytt myndum sem voru í of hárri upplausn
-1 klukkutímar  - 23 jan. 21:30 - 22:30 bætt við nutella og svo lagfært meiri villur. lagað línur og strip í healthyco.
-
+1 klukkutími  - 21 jan. 14:30 - 15:30 Lagað scale í mobile og bætt við fleirri vörum.
+1 klukkutími  - 22 jan. 18:30 - 19:30 Bætt anchors og breytt myndum sem voru í of hárri upplausn
+1 klukkutími  - 23 jan. 21:30 - 22:30 bætt við nutella og svo lagfært meiri villur. lagað línur og strip í healthyco.
+2 klukkutímar - 2 feb. 15:00 - 16:00 bætt við vörum og groupað elementum saman.
+1 klukkutími - 4 fe. 20:00 - 21:00
